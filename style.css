@@ -11,7 +11,7 @@ body{
 }
 
 .pokemon{
-    margin: 80px auto 5px;
+    margin: 50px auto 5px;
     height: 450px;
     width: 300px;
     background-image: linear-gradient(to right, yellow, rgb(0, 255, 247) );
