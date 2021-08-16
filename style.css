@@ -7,10 +7,9 @@ html{
 }
 
 body{
-    background-color: grey
-
-    
+    background-color: grey;
 }
+
 .pokemon{
     margin: 80px auto 5px;
     height: 450px;
@@ -20,7 +19,6 @@ body{
 }
 
 .pokemon img{
-   
     height:200px;
     margin-top: 5px;
     margin-left: 55px;
@@ -40,7 +38,6 @@ body{
 
 .text__weight, .text__height{
     margin-left: 10px;
-
 }
 
 .name{
@@ -54,6 +51,7 @@ body{
     background-color: thistle;
     margin: 0 auto; 
 }
+
 .btn{
     position: absolute;
     left: 50%;
